@@ -24,8 +24,27 @@ export class Navbar extends Component {
                 </li>
                 
                 <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">TryLater</a>
-                </li>
+                <a className="nav-link active" aria-current="page" href="#">Business</a>
+                </li> 
+                <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Entertainment</a>
+                </li> 
+                <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">General</a>
+                </li> 
+                <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Health</a>
+                </li>  
+                <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Science</a>
+                </li>  
+                <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Sports</a>
+                </li> 
+                <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Technology</a>
+                </li>    
+
             </ul>
             <form className="d-flex" role="search">
                 <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
